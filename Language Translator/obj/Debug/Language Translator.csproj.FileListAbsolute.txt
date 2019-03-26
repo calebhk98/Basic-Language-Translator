@@ -1,0 +1,9 @@
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Language Translator\Language Translator\bin\Debug\Language Translator.exe.config
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Language Translator\Language Translator\bin\Debug\Language Translator.exe
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Language Translator\Language Translator\bin\Debug\Language Translator.pdb
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Language Translator\Language Translator\obj\Debug\Language Translator.csprojResolveAssemblyReference.cache
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Language Translator\Language Translator\obj\Debug\Language_Translator.Form1.resources
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Language Translator\Language Translator\obj\Debug\Language_Translator.Properties.Resources.resources
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.GenerateResource.Cache
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Language Translator\Language Translator\obj\Debug\Language Translator.exe
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Language Translator\Language Translator\obj\Debug\Language Translator.pdb
